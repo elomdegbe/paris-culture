@@ -1,58 +1,65 @@
-<h1>Analyse de données sur les événements culturels à Paris</h1>
+<section class="card" id="project-overview">
+  <h2>Objectif du projet</h2>
+  <p>
+    Concevoir un tableau de bord dynamique sous Google Sheets pour analyser les tendances des événements culturels (concerts, expositions, festivals, conférences) à Paris.
+    Le livrable devait permettre de transformer des données hétérogènes issues de différentes sources en informations exploitables afin de :
+  </p>
+  <ul>
+    <li>Identifier la saisonnalité et les périodes de forte activité culturelle.</li>
+    <li>Cartographier la répartition géographique des événements par arrondissement.</li>
+    <li>Suivre la fréquentation moyenne et hiérarchiser les types d’événements les plus populaires.</li>
+    <li>Fournir un outil réutilisable et collaboratif pour études de marché locales et reporting.</li>
+  </ul>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
+  <h3>Démarche</h3>
+  <ul>
+    <li><strong>Collecte</strong> : importation manuelle et automatisée (CSV, <code>IMPORTXML</code>, <code>IMPORTRANGE</code>, APIs si disponibles).</li>
+    <li><strong>Nettoyage</strong> : normalisation des dates, standardisation des catégories, suppression des doublons et gestion des valeurs manquantes.</li>
+    <li><strong>Analyse</strong> : tableaux croisés dynamiques, formules avancées et métriques (moyennes, médianes, part de marché par type d’événement).</li>
+    <li><strong>Visualisation</strong> : graphiques dynamiques, filtres (date, arrondissement, type) et vues synthétiques pour prise de décision rapide.</li>
+  </ul>
 
-<h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
-<br />
+  <h3>Résultats</h3>
+  <ul>
+    <li>Tableau de bord réactif permettant d’explorer la fréquence, la localisation et la fréquentation des événements.</li>
+    <li>Méthodologie reproductible pour effectuer la même analyse sur d’autres villes ou types d’événements.</li>
+    <li>Livrable prêt à être partagé en équipe (permissions Google Drive) et à être intégré dans un reporting mensuel.</li>
+  </ul>
 
+  <h3>Compétences mobilisées</h3>
+  <ul>
+    <li>Data cleaning & préparation</li>
+    <li>Analyse descriptive et exploration de données</li>
+    <li>Visualisation et design de tableaux de bord</li>
+    <li>Automatisation Google Sheets (fonctions avancées)</li>
+    <li>Collaboration et documentation (Google Drive)</li>
+  </ul>
 
-<h2>Languages and Utilities Used</h2>
+  <div class="meta-grid">
+    <div class="meta">
+      <strong>Languages and Utilities Used</strong>
+      <ul>
+        <li>Formules Google Sheets : <code>QUERY</code>, <code>ARRAYFORMULA</code>, <code>IMPORTXML</code>, <code>IMPORTRANGE</code></li>
+        <li>Google Charts (intégration pour graphiques avancés)</li>
+        <li>CSV, Google Calendar (import possible)</li>
+      </ul>
+    </div>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+    <div class="meta">
+      <strong>Environments Used</strong>
+      <ul>
+        <li>Navigateur Web (Google Chrome / Edge)</li>
+        <li>Google Workspace : Sheets, Drive, Docs</li>
+        <li>Ordinateur personnel (Windows / macOS)</li>
+      </ul>
+    </div>
+  </div>
 
-<h2>Environments Used </h2>
+  <h3>Documentation et fichiers</h3>
+  <p>La description complète, les fichiers sources et la feuille Google Sheets interactive sont disponibles via le lien ci-dessous.</p>
+  <a class="btn" href="#" title="Accéder au dossier / fichier">Ouvrir la fiche projet (description complète)</a>
+</section>
 
-- <b>Windows 10</b> (21H2)
-
-<h2>Program walk-through:</h2>
-
-<p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
+<footer>
+  <p>Format prêt à être copié dans un portfolio en ligne ou exporté en PDF. Si tu veux, je peux générer la même fiche au format Markdown ou créer la page HTML complète pour ton site.</p>
+</footer>
