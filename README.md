@@ -28,6 +28,12 @@
     <li>Livrable prêt à être partagé en équipe (permissions Google Drive) et à être intégré dans un reporting mensuel.</li>
   </ul>
 
+<p align="center">
+Présentation du Tableau de bord : <br/>
+<img src="https://github.com/elomdegbe/paris-culture/blob/main/image%20du%20dashboard.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
+
   <h3>Compétences mobilisées</h3>
   <ul>
     <li>Data cleaning & préparation</li>
@@ -39,7 +45,7 @@
 
   <div class="meta-grid">
     <div class="meta">
-      <strong>Languages and Utilities Used</strong>
+      <strong>Langages et outils utilisés</strong>
       <ul>
         <li>Formules Google Sheets : <code>XLOOKUP</code>, <code>PIVOT TABLE</code>, <code>IMPORTHTML</code>, <code>FILTER</code></li>
         <li>Google Charts (intégration pour graphiques avancés)</li>
@@ -48,7 +54,7 @@
     </div>
 
   <div class="meta">
-      <strong>Environments Used</strong>
+      <strong>Environnements utilisés</strong>
       <ul>
         <li>Navigateur Web (Google Chrome / Edge)</li>
         <li>Google Workspace : Sheets, Drive, Docs</li>
@@ -60,5 +66,5 @@
   <h3>Documentation et fichiers</h3>
   <p>La description complète, les fichiers sources et la feuille Google Sheets interactive sont disponibles via le lien ci-dessous.</p>
   
-  ### [Ouvrir la fiche projet (description complète)](https://docs.google.com/spreadsheets/d/1RmIpI4rzhdiMujtQ-2l1I5DMs9IIdzuA/edit?usp=sharing&ouid=105576741693069593396&rtpof=true&sd=true)
+  ### [Ouvrir la fiche projet](https://docs.google.com/spreadsheets/d/1RmIpI4rzhdiMujtQ-2l1I5DMs9IIdzuA/edit?usp=sharing&ouid=105576741693069593396&rtpof=true&sd=true)
 </section>
