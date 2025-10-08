@@ -1,5 +1,7 @@
 <section class="card" id="project-overview">
   <h2>Objectif du projet</h2>
+
+   ### [PARIS CULTURE](https://docs.google.com/spreadsheets/d/1RmIpI4rzhdiMujtQ-2l1I5DMs9IIdzuA/edit?usp=sharing&ouid=105576741693069593396&rtpof=true&sd=true)
   <p>
     Concevoir un tableau de bord dynamique sous Google Sheets pour analyser les tendances des événements culturels (concerts, expositions, festivals, conférences) à Paris.
     Le livrable devait permettre de transformer des données hétérogènes issues de différentes sources en informations exploitables afin de :
@@ -13,9 +15,9 @@
 
   <h3>Démarche</h3>
   <ul>
-    <li><strong>Collecte</strong> : importation manuelle et automatisée (CSV, <code>IMPORTXML</code>, <code>IMPORTRANGE</code>, APIs si disponibles).</li>
+    <li><strong>Collecte</strong> : importation manuelle et automatisée (CSV, <code>IMPORTHTML</code>, <code>IMPORTRANGE</code>).</li>
     <li><strong>Nettoyage</strong> : normalisation des dates, standardisation des catégories, suppression des doublons et gestion des valeurs manquantes.</li>
-    <li><strong>Analyse</strong> : tableaux croisés dynamiques, formules avancées et métriques (moyennes, médianes, part de marché par type d’événement).</li>
+    <li><strong>Analyse</strong> : tableaux croisés dynamiques, formules avancées et métriques (moyennes, médianes, part de marché par type d’événements).</li>
     <li><strong>Visualisation</strong> : graphiques dynamiques, filtres (date, arrondissement, type) et vues synthétiques pour prise de décision rapide.</li>
   </ul>
 
@@ -39,13 +41,13 @@
     <div class="meta">
       <strong>Languages and Utilities Used</strong>
       <ul>
-        <li>Formules Google Sheets : <code>QUERY</code>, <code>ARRAYFORMULA</code>, <code>IMPORTXML</code>, <code>IMPORTRANGE</code></li>
+        <li>Formules Google Sheets : <code>XLOOKUP</code>, <code>PIVOT TABLE</code>, <code>IMPORTHTML</code>, <code>FILTER</code></li>
         <li>Google Charts (intégration pour graphiques avancés)</li>
-        <li>CSV, Google Calendar (import possible)</li>
+        <li>CSV (import possible)</li>
       </ul>
     </div>
 
-    <div class="meta">
+  <div class="meta">
       <strong>Environments Used</strong>
       <ul>
         <li>Navigateur Web (Google Chrome / Edge)</li>
@@ -57,9 +59,6 @@
 
   <h3>Documentation et fichiers</h3>
   <p>La description complète, les fichiers sources et la feuille Google Sheets interactive sont disponibles via le lien ci-dessous.</p>
-  <a class="btn" href="#" title="Accéder au dossier / fichier">Ouvrir la fiche projet (description complète)</a>
+  
+  ### [Ouvrir la fiche projet (description complète)](https://docs.google.com/spreadsheets/d/1RmIpI4rzhdiMujtQ-2l1I5DMs9IIdzuA/edit?usp=sharing&ouid=105576741693069593396&rtpof=true&sd=true)
 </section>
-
-<footer>
-  <p>Format prêt à être copié dans un portfolio en ligne ou exporté en PDF. Si tu veux, je peux générer la même fiche au format Markdown ou créer la page HTML complète pour ton site.</p>
-</footer>
