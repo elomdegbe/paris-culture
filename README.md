@@ -1,7 +1,7 @@
 <section class="card" id="project-overview">
+    
+  ### [Analyse thermique et modélisation de la propagation de la chaleur dans un séchoir solaire](https://docs.google.com/spreadsheets/d/1wCROasIgh6vZGE2onrW7_ubu-wwTqz22/edit?usp=drive_link&ouid=105576741693069593396&rtpof=true&sd=true)
   <h2>Objectif du projet</h2>
-
-   ### [PARIS CULTURE](https://docs.google.com/spreadsheets/d/1RmIpI4rzhdiMujtQ-2l1I5DMs9IIdzuA/edit?usp=sharing&ouid=105576741693069593396&rtpof=true&sd=true)
   <p>
     Concevoir un tableau de bord dynamique sous Google Sheets pour analyser les tendances des événements culturels (concerts, expositions, festivals, conférences) à Paris.
     Le livrable devait permettre de transformer des données hétérogènes issues de différentes sources en informations exploitables afin de :
@@ -66,5 +66,5 @@ Présentation du Tableau de bord : <br/>
   <h3>Documentation et fichiers</h3>
   <p>La description complète, les fichiers sources et la feuille Google Sheets interactive sont disponibles via le lien ci-dessous.</p>
   
-  ### [Ouvrir la fiche projet](https://docs.google.com/spreadsheets/d/1RmIpI4rzhdiMujtQ-2l1I5DMs9IIdzuA/edit?usp=sharing&ouid=105576741693069593396&rtpof=true&sd=true)
+  ### [Ouvrir la fiche projet](https://docs.google.com/spreadsheets/d/1wCROasIgh6vZGE2onrW7_ubu-wwTqz22/edit?usp=drive_link&ouid=105576741693069593396&rtpof=true&sd=true)
 </section>
